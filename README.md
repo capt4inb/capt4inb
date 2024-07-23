@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trieu Phu</h1>
-<h3 align="center">Frontend developer from Viet Nam</h3>
+<h1 align="center">안녕하세요, 제 이름은 Trieu Phu 입니다.</h1>
+<h3 align="center">Frontend developer from Viet Nam </h3>
 <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" align="right" width="500" alt="UI / UX Design" title="UI / UX Design" data-aos="fade-up" loop="-1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capt4inb&label=Profile%20views&color=0e75b6&style=flat" alt="capt4inb" /> </p>
 
