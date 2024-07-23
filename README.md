@@ -12,7 +12,7 @@
 
 - 📝 Mobile phone number 036 5454 067
 
-- 💬 Ask me about **Design, UX UI,**
+- 💬 Ask me about **Design, UX UI, Web Development**
 
 - 📫 How to reach me **trieuphuisme@gmail.com**
 
