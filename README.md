@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available in here [https://github.com/capt4inb](https://github.com/capt4inb)
 
-- 📝 Mobile phone number [036 5454 067](036 5454 067)
+- 📝 Mobile phone number 036 5454 067
 
 - 💬 Ask me about **Design, UX UI,**
 
