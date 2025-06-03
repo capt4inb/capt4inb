@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **trieuphuisme@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGLG4XMxgo/zvZ5TFXEBLvPQj616cREXg/edit?utm_content=DAGLG4XMxgo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGLG4XMxgo/zvZ5TFXEBLvPQj616cREXg/edit?utm_content=DAGLG4XMxgo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [http://trieuphu.site/)
 
 - ⚡ Fun fact **I think I am Extroverted and Talkative ^^!**
 
