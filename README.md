@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **trieuphuisme@gmail.com**
 
-- 📄 Know about my experiences [http://trieuphu.site/)
+- 📄 Know about my experiences (http://trieuphu.site)
 
 - ⚡ Fun fact **I think I am Extroverted and Talkative ^^!**
 
